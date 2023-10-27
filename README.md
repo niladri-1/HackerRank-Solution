@@ -10,12 +10,14 @@ In this repository, you will find solutions to a wide range of HackerRank questi
 ## Languages
 
 - **C:** Efficient C solutions with detailed explanations.
+- **C++:** Efficient C++ solutions with detailed explanations.
 - **Python:** Python solutions for a broader perspective on solving these problems.
 
 ## Folder Structure
 
-- `C_Solutions/`: Contains C solutions organized by problem category.
-- `Python_Solutions/`: Houses Python solutions, also organized by problem category.
+- `C/`: Contains C solutions organized by problem category.
+- `C++/`: Contains C++ solutions organized by problem category.
+- `Python/`: Houses Python solutions, also organized by problem category.
 - `README.md`: This document you are currently reading.
 
 ## License
